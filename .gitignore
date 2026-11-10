@@ -1,0 +1,18 @@
+# Media and generated outputs
+sample_video.mp4
+urdu_audio.mp3
+urdu_dubbed.mp4
+*.mp4
+*.mp3
+*.wav
+*.srt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
